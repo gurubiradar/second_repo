@@ -1,1 +1,3 @@
 i am writting code for summation  D1
+
+i am writting code for substraction D2
